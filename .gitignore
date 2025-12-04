@@ -1,0 +1,12 @@
+/.vscode
+/.idea
+/node_modules
+/dist
+/.env
+.DS_Store
+/logs
+*.log
+/coverage
+
+*.Identifier
+*.iml
